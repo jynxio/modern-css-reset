@@ -1,7 +1,8 @@
-# modern-css-reset
 ## Description
 
 [Eric Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/) is great but outdated, we need a more modern CSS Reset, and this is my solution!
+
+<br/>
 
 ## Code
 
@@ -54,8 +55,17 @@ a:not([class]) {
 }
 ```
 
+<br/>
+
 ## Thanks
 
 - [Eric Meyer's CSS Reset](https://meyerweb.com/eric/tools/css/reset/)
 - [CSS for JavaScript developers](https://courses.joshwcomeau.com/css-for-js/treasure-trove/010-global-styles)
 - [A Modern CSS Reset](https://andy-bell.co.uk/a-modern-css-reset/)
+
+<br/>
+
+## License
+[MIT](https://github.com/jynxio/modern-css-reset/blob/main/LICENSE)
+
+<br/>
