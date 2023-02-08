@@ -23,8 +23,8 @@ html:focus-within {
 
 body {
     line-height: 1.5;
-    text-rendering: optimizeSpeed;       /* it needs more testing */
-    -webkit-font-smoothing: antialiased; /* it needs more testing */
+    text-rendering: optimizeSpeed;       /* Optional */
+    -webkit-font-smoothing: antialiased; /* Optional */
 }
 
 img, picture, video, canvas, svg {
